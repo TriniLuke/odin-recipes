@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 50px;
+}
+.box {
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+    padding: 5px;
+    box-shadow: 0 0 5px black;
+
+}
